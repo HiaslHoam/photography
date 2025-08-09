@@ -1,0 +1,6 @@
+# Disable Prettier for index.html
+index.html
+
+# You can also ignore other files if needed
+# _site/
+# *.md
